@@ -43,10 +43,10 @@ A simple example component demonstrating basic React hooks usage.
 ### 13. `ThemeSwitchwithHook`
 A theme switcher component using a custom hook to manage theme state.
 
-### 14. `ParentComponent1`
+### 14. `ParentComponent`
 A parent component that demonstrates how to pass state and props to child components.
 
-### 15. `Form1`
+### 15. `Form`
 An advanced form component showcasing more complex form handling and validation.
 
 ### 16. `GetData`
